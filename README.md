@@ -5,6 +5,6 @@
 # Internship Duration - 1 Month ( September-2021 )
 # Internship Type - Work from Home
 
- # This is Simple Linear Rgression Task To predict the scores of a student based on the number of study hours.
+  This is simple linear rgression Task To predict the scores of a student based on the number of study hours.
  
- # Dataset : http://bit.ly/w-data
+  Dataset : http://bit.ly/w-data
