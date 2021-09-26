@@ -15,6 +15,6 @@
   
   
 
- 2) This is Simple Clustring  Task To predict the optimal nubers  of clustera from the Given Iris data
- 3) 
- 4)   Dataset : http://bit.ly/w-data
+ 2) This is Simple Clustring  Task To predict the optimal nubers  of clustera from the Given Iris data using K-Means
+  
+  # Dataset : https://bit.ly/3cGyP8j
